@@ -1,0 +1,26 @@
+button {
+	border-radius: 50px;
+}
+
+.app-size,
+.exp-size {
+	width: 50%;
+}
+
+.app-container {
+	display: flex;
+}
+
+.App {
+	font-family: sans-serif;
+	text-align: center;
+	background-color: pink;
+}
+
+.size-color-container {
+	display: flex;
+}
+
+.color-container {
+	margin-left: 1em;
+}
